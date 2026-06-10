@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//joelgsponer//IBC2028 Flyer//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ibc2028-basel@joelgsponer.github.io
+DTSTAMP:20280101T000000Z
+DTSTART;VALUE=DATE:20280716
+DTEND;VALUE=DATE:20280722
+SUMMARY:IBC 2028 — XXXIV International Biometric Conference
+LOCATION:Congress Centre Basel, Messepl. 21, 4058 Basel, Switzerland
+URL:https://joelgsponer.github.io/ibc2028/
+DESCRIPTION:XXXIV International Biometric Conference (IBC 2028)\, Basel\, Switzerland. 16–21 July 2028. More info: https://joelgsponer.github.io/ibc2028/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
