@@ -9,9 +9,24 @@ DTSTAMP:20280101T000000Z
 DTSTART;VALUE=DATE:20280716
 DTEND;VALUE=DATE:20280722
 SUMMARY:IBC 2028 — XXXIV International Biometric Conference
-LOCATION:Congress Centre Basel, Messepl. 21, 4058 Basel, Switzerland
-URL:https://www.biometricsociety.org/events/event-description?CalendarEventKey=a703d218-7ac5-4c9a-ab1b-019bb0216116&Home=%2Fevents%2Fcalendar
-DESCRIPTION:XXXIV International Biometric Conference (IBC 2028)\, Basel\, Switzerland. 16–21 July 2028. More info: https://www.biometricsociety.org/events/event-description?CalendarEventKey=a703d218-7ac5-4c9a-ab1b-019bb0216116
+LOCATION:Congress Centre Basel\, Messeplatz 21\, 4058 Basel\, Switzerland
+URL:https://www.biometricsociety.org/events/event-description?CalendarEve
+ ntKey=a703d218-7ac5-4c9a-ab1b-019bb0216116&Home=%2Fevents%2Fcalendar
+DESCRIPTION:The XXXIV International Biometric Conference (IBC 2028) bring
+ s the global biometrics and biostatistics community to Basel\, Switzerla
+ nd.\n\nDates: 16–21 July 2028\nVenue: Congress Centre Basel\, Messeplatz
+  21\, 4058 Basel\, Switzerland\n\nConference & registration: https://www
+ .biometricsociety.org/events/event-description?CalendarEventKey=a703d218
+ -7ac5-4c9a-ab1b-019bb0216116&Home=%2Fevents%2Fcalendar\nFlyer: https://j
+ oelgsponer.github.io/ibc2028/
+X-ALT-DESC;FMTTYPE=text/html:<p>The <b>XXXIV International Biometric Conf
+ erence (IBC 2028)</b> brings the global biometrics and biostatistics com
+ munity to Basel\, Switzerland.</p><p><b>Dates:</b> 16–21 July 2028<br><b
+ >Venue:</b> Congress Centre Basel\, Messeplatz 21\, 4058 Basel\, Switzer
+ land</p><p>&#128279\; <a href="https://www.biometricsociety.org/events/e
+ vent-description?CalendarEventKey=a703d218-7ac5-4c9a-ab1b-019bb0216116&H
+ ome=%2Fevents%2Fcalendar">Conference &amp\; registration</a><br>&#128279
+ \; <a href="https://joelgsponer.github.io/ibc2028/">Flyer</a></p>
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
